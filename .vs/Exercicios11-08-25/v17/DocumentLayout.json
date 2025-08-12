@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\Desktop\\Plataforma de desenvolvimento\\Exercicios11-08-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D623FD8A-41AB-4815-9683-02C30D33D081}|Exercicios11-08-25\\Exercicios11-08-25.csproj|c:\\users\\gusta\\onedrive\\desktop\\plataforma de desenvolvimento\\exercicios11-08-25\\exercicios11-08-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D623FD8A-41AB-4815-9683-02C30D33D081}|Exercicios11-08-25\\Exercicios11-08-25.csproj|solutionrelative:exercicios11-08-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\Desktop\\Plataforma de desenvolvimento\\Exercicios11-08-25\\Exercicios11-08-25\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios11-08-25\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\Desktop\\Plataforma de desenvolvimento\\Exercicios11-08-25\\Exercicios11-08-25\\Program.cs",
+              "RelativeToolTip": "Exercicios11-08-25\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:47:58.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\bin\Debug\net8.0\Exercicios11-08-25.exe
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\bin\Debug\net8.0\Exercicios11-08-25.deps.json
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\bin\Debug\net8.0\Exercicios11-08-25.runtimeconfig.json
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\bin\Debug\net8.0\Exercicios11-08-25.dll
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\bin\Debug\net8.0\Exercicios11-08-25.pdb
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.dll
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\refint\Exercicios11-08-25.dll
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.pdb
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\ref\Exercicios11-08-25.dll
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.dll
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\refint\Exercicios11-08-25.dll
+C:\Users\gusta\OneDrive\Desktop\Plataforma de desenvolvimento\Exercicios11-08-25\Exercicios11-08-25\obj\Debug\net8.0\Exercicios11-08-25.pdb
